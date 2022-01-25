@@ -1,11 +1,10 @@
 # HUST-CS-Thesis
 该模板基于华中科技大学2022春本科毕业设计公文包（计算机学院），小修了一下，可以在overleaf上正常使用，设置Compiler=XeLaTex, TeX Live version=2021。
 
+Overleaf模板位于：https://www.overleaf.com/latex/templates/hust-cs-thesis/bsmgrypbwyxs,  可以直接点击Open as Template使用
 
 
-
-
-------
+---
 
 以下是本科毕业设计公文包（计算机学院）原始README：
 
