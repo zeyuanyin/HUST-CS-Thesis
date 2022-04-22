@@ -759,6 +759,18 @@
 	\clearpage
 }
 
+%
+%	---	定义新的大学期间发表或提交的论文环境
+%
+\newenvironment{mypaper}{
+	\clearpage
+	\phantomsection
+	\addcontentsline{toc}{section}{附录：大学期间发表或提交的论文}
+	\ctexset{bibname={附录：大学期间发表或提交的论文}}
+}{
+	\clearpage
+}
+
 
 %
 %	---	重新定义参考文献页
